@@ -59,7 +59,7 @@
                         <i class="fa-solid fa-cat text-brand-red text-lg sm:text-2xl"></i>
                     </div>
                     <div class="min-w-0">
-                        <span class="text-xs sm:text-2xl font-extrabold tracking-tight text-brand-red block leading-tight truncate">MÈO THẦN TÀI AN NHIÊN</span>
+                        <span class="text-xs sm:text-xl font-extrabold tracking-tight text-brand-red block leading-tight truncate">MÈO THẦN TÀI AN NHIÊN</span>
                         <span class="text-[8px] sm:text-xs text-stone-500 font-semibold tracking-wider uppercase block truncate">Chiêu Tài - Tấn Lộc - Bình An</span>
                     </div>
                 </a>
@@ -178,7 +178,7 @@
     </section>
 
     <!-- Main Products Section -->
-    <main class="max-w-7xl mx-auto px-3 sm:px-6 lg:px-8 py-10 sm:py-16 space-y-16 sm:space-y-20">
+    <main class="max-w-7xl mx-auto px-2 sm:px-6 lg:px-8 py-10 sm:py-16 space-y-16 sm:space-y-20">
 
         <!-- Category 1: Mèo Thần Tài Khai Trương -->
         <section id="meo-khai-truong">
@@ -191,14 +191,14 @@
             </div>
 
             <!-- 2 Columns on mobile, 4 columns on desktop -->
-            <div class="grid grid-cols-2 lg:grid-cols-4 gap-3 sm:gap-6">
+            <div class="grid grid-cols-2 lg:grid-cols-4 gap-2 sm:gap-6">
                 <!-- Product 1 -->
                 <div class="bg-white rounded-xl sm:rounded-2xl shadow-sm hover:shadow-xl transition border border-stone-200 overflow-hidden flex flex-col">
                     <div class="relative bg-stone-100 overflow-hidden group">
-                        <img src="https://meothantaikhaitruong.com/wp-content/uploads/2024/04/meo-than-tai-mini-tien-da-da-tt0409.jpeg" alt="Mèo Thần Tài Đại Cát Đại Lợi" class="w-full h-36 sm:h-64 object-cover group-hover:scale-105 transition duration-500">
+                        <img src="https://meothantaikhaitruong.com/wp-content/uploads/2024/04/meo-than-tai-mini-tien-da-da-tt0409.jpeg" alt="Mèo Thần Tài Đại Cát Đại Lợi" class="w-full h-32 sm:h-64 object-cover group-hover:scale-105 transition duration-500">
                         <span class="absolute top-1.5 left-1.5 sm:top-3 sm:left-3 bg-brand-red text-white text-[9px] sm:text-xs font-bold px-1.5 py-0.5 sm:px-2.5 sm:py-1 rounded shadow">Bán Chạy</span>
                     </div>
-                    <div class="p-3 sm:p-5 flex-1 flex flex-col justify-between space-y-2 sm:space-y-4">
+                    <div class="p-2 sm:p-5 flex-1 flex flex-col justify-between space-y-2 sm:space-y-4">
                         <div>
                             <span class="hidden sm:inline text-[10px] sm:text-xs text-stone-400 font-semibold uppercase">Mèo Khai Trương</span>
                             <h3 class="font-bold text-stone-900 text-xs sm:text-base mt-0.5 sm:mt-1 line-clamp-2">Mèo Thần Tài Đại Cát Đại Lợi Vẫy Tay Vàng Kim</h3>
@@ -208,7 +208,7 @@
                                 <span class="text-brand-red font-extrabold text-xs sm:text-lg">750.000 ₫</span>
                                 <span class="text-[9px] sm:text-xs text-stone-400 line-through">890.000 ₫</span>
                             </div>
-                            <button onclick="addToCart('Mèo Thần Tài Đại Cát Đại Lợi', 750000)" class="mt-2 sm:mt-3 w-full bg-stone-900 hover:bg-brand-red text-white py-2 sm:py-2.5 rounded-lg sm:rounded-xl font-bold text-xs sm:text-sm transition shadow-md flex items-center justify-center gap-1">
+                            <button onclick="addToCart('Mèo Thần Tài Đại Cát Đại Lợi', 750000)" class="mt-2 sm:mt-3 w-full bg-stone-900 hover:bg-brand-red text-white py-1.5 sm:py-2.5 rounded-lg sm:rounded-xl font-bold text-xs sm:text-sm transition shadow-md flex items-center justify-center gap-1">
                                 <i class="fa-solid fa-cart-plus"></i> <span>Thêm</span>
                             </button>
                         </div>
@@ -218,10 +218,10 @@
                 <!-- Product 2 -->
                 <div class="bg-white rounded-xl sm:rounded-2xl shadow-sm hover:shadow-xl transition border border-stone-200 overflow-hidden flex flex-col">
                     <div class="relative bg-stone-100 overflow-hidden group">
-                        <img src="https://meothantaikhaitruong.com/wp-content/uploads/2024/04/meo-than-tai-mini-tien-da-da-tt0409.jpeg" alt="Mèo Thần Tài Thiên Kim Vạn Lượng" class="w-full h-36 sm:h-64 object-cover group-hover:scale-105 transition duration-500">
+                        <img src="https://meothantaikhaitruong.com/wp-content/uploads/2024/04/meo-than-tai-mini-tien-da-da-tt0409.jpeg" alt="Mèo Thần Tài Thiên Kim Vạn Lượng" class="w-full h-32 sm:h-64 object-cover group-hover:scale-105 transition duration-500">
                         <span class="absolute top-1.5 left-1.5 sm:top-3 sm:left-3 bg-amber-500 text-stone-900 text-[9px] sm:text-xs font-bold px-1.5 py-0.5 sm:px-2.5 sm:py-1 rounded shadow">VIP</span>
                     </div>
-                    <div class="p-3 sm:p-5 flex-1 flex flex-col justify-between space-y-2 sm:space-y-4">
+                    <div class="p-2 sm:p-5 flex-1 flex flex-col justify-between space-y-2 sm:space-y-4">
                         <div>
                             <span class="hidden sm:inline text-[10px] sm:text-xs text-stone-400 font-semibold uppercase">Mèo Khai Trương</span>
                             <h3 class="font-bold text-stone-900 text-xs sm:text-base mt-0.5 sm:mt-1 line-clamp-2">Mèo Thần Tài Thiên Kim Vạn Lượng Cỡ Lớn (35cm)</h3>
@@ -231,7 +231,7 @@
                                 <span class="text-brand-red font-extrabold text-xs sm:text-lg">1.350.000 ₫</span>
                                 <span class="text-[9px] sm:text-xs text-stone-400 line-through">1.550.000 ₫</span>
                             </div>
-                            <button onclick="addToCart('Mèo Thần Tài Thiên Kim Vạn Lượng', 1350000)" class="mt-2 sm:mt-3 w-full bg-stone-900 hover:bg-brand-red text-white py-2 sm:py-2.5 rounded-lg sm:rounded-xl font-bold text-xs sm:text-sm transition shadow-md flex items-center justify-center gap-1">
+                            <button onclick="addToCart('Mèo Thần Tài Thiên Kim Vạn Lượng', 1350000)" class="mt-2 sm:mt-3 w-full bg-stone-900 hover:bg-brand-red text-white py-1.5 sm:py-2.5 rounded-lg sm:rounded-xl font-bold text-xs sm:text-sm transition shadow-md flex items-center justify-center gap-1">
                                 <i class="fa-solid fa-cart-plus"></i> <span>Thêm</span>
                             </button>
                         </div>
@@ -241,9 +241,9 @@
                 <!-- Product 3 -->
                 <div class="bg-white rounded-xl sm:rounded-2xl shadow-sm hover:shadow-xl transition border border-stone-200 overflow-hidden flex flex-col">
                     <div class="relative bg-stone-100 overflow-hidden group">
-                        <img src="https://meothantaikhaitruong.com/wp-content/uploads/2024/04/meo-than-tai-mini-tien-da-da-tt0409.jpeg" alt="Mèo Thần Tài Kim Ngưu Cát Tường" class="w-full h-36 sm:h-64 object-cover group-hover:scale-105 transition duration-500">
+                        <img src="https://meothantaikhaitruong.com/wp-content/uploads/2024/04/meo-than-tai-mini-tien-da-da-tt0409.jpeg" alt="Mèo Thần Tài Kim Ngưu Cát Tường" class="w-full h-32 sm:h-64 object-cover group-hover:scale-105 transition duration-500">
                     </div>
-                    <div class="p-3 sm:p-5 flex-1 flex flex-col justify-between space-y-2 sm:space-y-4">
+                    <div class="p-2 sm:p-5 flex-1 flex flex-col justify-between space-y-2 sm:space-y-4">
                         <div>
                             <span class="hidden sm:inline text-[10px] sm:text-xs text-stone-400 font-semibold uppercase">Mèo Khai Trương</span>
                             <h3 class="font-bold text-stone-900 text-xs sm:text-base mt-0.5 sm:mt-1 line-clamp-2">Mèo Thần Tài Kim Ngưu Cát Tường Mừng Khai Trương</h3>
@@ -252,7 +252,7 @@
                             <div class="flex flex-col sm:flex-row sm:items-baseline gap-0.5 sm:gap-2">
                                 <span class="text-brand-red font-extrabold text-xs sm:text-lg">890.000 ₫</span>
                             </div>
-                            <button onclick="addToCart('Mèo Thần Tài Kim Ngưu Cát Tường', 890000)" class="mt-2 sm:mt-3 w-full bg-stone-900 hover:bg-brand-red text-white py-2 sm:py-2.5 rounded-lg sm:rounded-xl font-bold text-xs sm:text-sm transition shadow-md flex items-center justify-center gap-1">
+                            <button onclick="addToCart('Mèo Thần Tài Kim Ngưu Cát Tường', 890000)" class="mt-2 sm:mt-3 w-full bg-stone-900 hover:bg-brand-red text-white py-1.5 sm:py-2.5 rounded-lg sm:rounded-xl font-bold text-xs sm:text-sm transition shadow-md flex items-center justify-center gap-1">
                                 <i class="fa-solid fa-cart-plus"></i> <span>Thêm</span>
                             </button>
                         </div>
@@ -262,10 +262,10 @@
                 <!-- Product 4 -->
                 <div class="bg-white rounded-xl sm:rounded-2xl shadow-sm hover:shadow-xl transition border border-stone-200 overflow-hidden flex flex-col">
                     <div class="relative bg-stone-100 overflow-hidden group">
-                        <img src="https://meothantaikhaitruong.com/wp-content/uploads/2024/04/meo-than-tai-mini-tien-da-da-tt0409.jpeg" alt="Mèo Thần Tài Phú Quý Viên Mãn" class="w-full h-36 sm:h-64 object-cover group-hover:scale-105 transition duration-500">
+                        <img src="https://meothantaikhaitruong.com/wp-content/uploads/2024/04/meo-than-tai-mini-tien-da-da-tt0409.jpeg" alt="Mèo Thần Tài Phú Quý Viên Mãn" class="w-full h-32 sm:h-64 object-cover group-hover:scale-105 transition duration-500">
                         <span class="absolute top-1.5 left-1.5 sm:top-3 sm:left-3 bg-brand-red text-white text-[9px] sm:text-xs font-bold px-1.5 py-0.5 sm:px-2.5 sm:py-1 rounded shadow">Hot</span>
                     </div>
-                    <div class="p-3 sm:p-5 flex-1 flex flex-col justify-between space-y-2 sm:space-y-4">
+                    <div class="p-2 sm:p-5 flex-1 flex flex-col justify-between space-y-2 sm:space-y-4">
                         <div>
                             <span class="hidden sm:inline text-[10px] sm:text-xs text-stone-400 font-semibold uppercase">Mèo Khai Trương</span>
                             <h3 class="font-bold text-stone-900 text-xs sm:text-base mt-0.5 sm:mt-1 line-clamp-2">Mèo Thần Tài Phú Quý Viên Mãn Tay Cầm Hồ Lô Vàng</h3>
@@ -274,7 +274,7 @@
                             <div class="flex flex-col sm:flex-row sm:items-baseline gap-0.5 sm:gap-2">
                                 <span class="text-brand-red font-extrabold text-xs sm:text-lg">620.000 ₫</span>
                             </div>
-                            <button onclick="addToCart('Mèo Thần Tài Phú Quý Viên Mãn', 620000)" class="mt-2 sm:mt-3 w-full bg-stone-900 hover:bg-brand-red text-white py-2 sm:py-2.5 rounded-lg sm:rounded-xl font-bold text-xs sm:text-sm transition shadow-md flex items-center justify-center gap-1">
+                            <button onclick="addToCart('Mèo Thần Tài Phú Quý Viên Mãn', 620000)" class="mt-2 sm:mt-3 w-full bg-stone-900 hover:bg-brand-red text-white py-1.5 sm:py-2.5 rounded-lg sm:rounded-xl font-bold text-xs sm:text-sm transition shadow-md flex items-center justify-center gap-1">
                                 <i class="fa-solid fa-cart-plus"></i> <span>Thêm</span>
                             </button>
                         </div>
@@ -294,13 +294,13 @@
             </div>
 
             <!-- 2 Columns on mobile, 4 columns on desktop -->
-            <div class="grid grid-cols-2 lg:grid-cols-4 gap-3 sm:gap-6">
+            <div class="grid grid-cols-2 lg:grid-cols-4 gap-2 sm:gap-6">
                 <!-- Gift 1 -->
                 <div class="bg-white rounded-xl sm:rounded-2xl shadow-sm hover:shadow-xl transition border border-stone-200 overflow-hidden flex flex-col">
                     <div class="relative bg-stone-100 overflow-hidden group">
-                        <img src="https://meothantaikhaitruong.com/wp-content/uploads/2024/04/meo-than-tai-mini-tien-da-da-tt0409.jpeg" alt="Mèo Tặng Khai Trương Quán Cà Phê" class="w-full h-36 sm:h-64 object-cover group-hover:scale-105 transition duration-500">
+                        <img src="https://meothantaikhaitruong.com/wp-content/uploads/2024/04/meo-than-tai-mini-tien-da-da-tt0409.jpeg" alt="Mèo Tặng Khai Trương Quán Cà Phê" class="w-full h-32 sm:h-64 object-cover group-hover:scale-105 transition duration-500">
                     </div>
-                    <div class="p-3 sm:p-5 flex-1 flex flex-col justify-between space-y-2 sm:space-y-4">
+                    <div class="p-2 sm:p-5 flex-1 flex flex-col justify-between space-y-2 sm:space-y-4">
                         <div>
                             <span class="hidden sm:inline text-[10px] sm:text-xs text-stone-400 font-semibold uppercase">Quà Tặng Khai Trương</span>
                             <h3 class="font-bold text-stone-900 text-xs sm:text-base mt-0.5 sm:mt-1 line-clamp-2">Mèo Thần Tài Quà Tặng Khai Trương Quán Cà Phê</h3>
@@ -309,7 +309,7 @@
                             <div class="flex flex-col sm:flex-row sm:items-baseline gap-0.5 sm:gap-2">
                                 <span class="text-brand-red font-extrabold text-xs sm:text-lg">820.000 ₫</span>
                             </div>
-                            <button onclick="addToCart('Mèo Tặng Khai Trương Quán Cà Phê', 820000)" class="mt-2 sm:mt-3 w-full bg-stone-900 hover:bg-brand-red text-white py-2 sm:py-2.5 rounded-lg sm:rounded-xl font-bold text-xs sm:text-sm transition shadow-md flex items-center justify-center gap-1">
+                            <button onclick="addToCart('Mèo Tặng Khai Trương Quán Cà Phê', 820000)" class="mt-2 sm:mt-3 w-full bg-stone-900 hover:bg-brand-red text-white py-1.5 sm:py-2.5 rounded-lg sm:rounded-xl font-bold text-xs sm:text-sm transition shadow-md flex items-center justify-center gap-1">
                                 <i class="fa-solid fa-cart-plus"></i> <span>Thêm</span>
                             </button>
                         </div>
@@ -319,9 +319,9 @@
                 <!-- Gift 2 -->
                 <div class="bg-white rounded-xl sm:rounded-2xl shadow-sm hover:shadow-xl transition border border-stone-200 overflow-hidden flex flex-col">
                     <div class="relative bg-stone-100 overflow-hidden group">
-                        <img src="https://meothantaikhaitruong.com/wp-content/uploads/2024/04/meo-than-tai-mini-tien-da-da-tt0409.jpeg" alt="Mèo Tặng Khai Trương Shop Thời Trang" class="w-full h-36 sm:h-64 object-cover group-hover:scale-105 transition duration-500">
+                        <img src="https://meothantaikhaitruong.com/wp-content/uploads/2024/04/meo-than-tai-mini-tien-da-da-tt0409.jpeg" alt="Mèo Tặng Khai Trương Shop Thời Trang" class="w-full h-32 sm:h-64 object-cover group-hover:scale-105 transition duration-500">
                     </div>
-                    <div class="p-3 sm:p-5 flex-1 flex flex-col justify-between space-y-2 sm:space-y-4">
+                    <div class="p-2 sm:p-5 flex-1 flex flex-col justify-between space-y-2 sm:space-y-4">
                         <div>
                             <span class="hidden sm:inline text-[10px] sm:text-xs text-stone-400 font-semibold uppercase">Quà Tặng Khai Trương</span>
                             <h3 class="font-bold text-stone-900 text-xs sm:text-base mt-0.5 sm:mt-1 line-clamp-2">Mèo Thần Tài Hứng Lộc Mừng Khai Trương Shop</h3>
@@ -330,7 +330,7 @@
                             <div class="flex flex-col sm:flex-row sm:items-baseline gap-0.5 sm:gap-2">
                                 <span class="text-brand-red font-extrabold text-xs sm:text-lg">950.000 ₫</span>
                             </div>
-                            <button onclick="addToCart('Mèo Thần Tài Hứng Lộc Khai Trương Shop', 950000)" class="mt-2 sm:mt-3 w-full bg-stone-900 hover:bg-brand-red text-white py-2 sm:py-2.5 rounded-lg sm:rounded-xl font-bold text-xs sm:text-sm transition shadow-md flex items-center justify-center gap-1">
+                            <button onclick="addToCart('Mèo Thần Tài Hứng Lộc Khai Trương Shop', 950000)" class="mt-2 sm:mt-3 w-full bg-stone-900 hover:bg-brand-red text-white py-1.5 sm:py-2.5 rounded-lg sm:rounded-xl font-bold text-xs sm:text-sm transition shadow-md flex items-center justify-center gap-1">
                                 <i class="fa-solid fa-cart-plus"></i> <span>Thêm</span>
                             </button>
                         </div>
@@ -340,9 +340,9 @@
                 <!-- Gift 3 -->
                 <div class="bg-white rounded-xl sm:rounded-2xl shadow-sm hover:shadow-xl transition border border-stone-200 overflow-hidden flex flex-col">
                     <div class="relative bg-stone-100 overflow-hidden group">
-                        <img src="https://meothantaikhaitruong.com/wp-content/uploads/2024/04/meo-than-tai-mini-tien-da-da-tt0409.jpeg" alt="Mèo Tặng Khai Trương Spa Salon" class="w-full h-36 sm:h-64 object-cover group-hover:scale-105 transition duration-500">
+                        <img src="https://meothantaikhaitruong.com/wp-content/uploads/2024/04/meo-than-tai-mini-tien-da-da-tt0409.jpeg" alt="Mèo Tặng Khai Trương Spa Salon" class="w-full h-32 sm:h-64 object-cover group-hover:scale-105 transition duration-500">
                     </div>
-                    <div class="p-3 sm:p-5 flex-1 flex flex-col justify-between space-y-2 sm:space-y-4">
+                    <div class="p-2 sm:p-5 flex-1 flex flex-col justify-between space-y-2 sm:space-y-4">
                         <div>
                             <span class="hidden sm:inline text-[10px] sm:text-xs text-stone-400 font-semibold uppercase">Quà Tặng Khai Trương</span>
                             <h3 class="font-bold text-stone-900 text-xs sm:text-base mt-0.5 sm:mt-1 line-clamp-2">Mèo Thần Tài Cát Tường Mừng Khai Trương Spa / Salon</h3>
@@ -351,7 +351,7 @@
                             <div class="flex flex-col sm:flex-row sm:items-baseline gap-0.5 sm:gap-2">
                                 <span class="text-brand-red font-extrabold text-xs sm:text-lg">780.000 ₫</span>
                             </div>
-                            <button onclick="addToCart('Mèo Thần Tài Khai Trương Spa', 780000)" class="mt-2 sm:mt-3 w-full bg-stone-900 hover:bg-brand-red text-white py-2 sm:py-2.5 rounded-lg sm:rounded-xl font-bold text-xs sm:text-sm transition shadow-md flex items-center justify-center gap-1">
+                            <button onclick="addToCart('Mèo Thần Tài Khai Trương Spa', 780000)" class="mt-2 sm:mt-3 w-full bg-stone-900 hover:bg-brand-red text-white py-1.5 sm:py-2.5 rounded-lg sm:rounded-xl font-bold text-xs sm:text-sm transition shadow-md flex items-center justify-center gap-1">
                                 <i class="fa-solid fa-cart-plus"></i> <span>Thêm</span>
                             </button>
                         </div>
@@ -361,9 +361,9 @@
                 <!-- Gift 4 -->
                 <div class="bg-white rounded-xl sm:rounded-2xl shadow-sm hover:shadow-xl transition border border-stone-200 overflow-hidden flex flex-col">
                     <div class="relative bg-stone-100 overflow-hidden group">
-                        <img src="https://meothantaikhaitruong.com/wp-content/uploads/2024/04/meo-than-tai-mini-tien-da-da-tt0409.jpeg" alt="Bộ Quà Tặng Mèo Tài Lộc" class="w-full h-36 sm:h-64 object-cover group-hover:scale-105 transition duration-500">
+                        <img src="https://meothantaikhaitruong.com/wp-content/uploads/2024/04/meo-than-tai-mini-tien-da-da-tt0409.jpeg" alt="Bộ Quà Tặng Mèo Tài Lộc" class="w-full h-32 sm:h-64 object-cover group-hover:scale-105 transition duration-500">
                     </div>
-                    <div class="p-3 sm:p-5 flex-1 flex flex-col justify-between space-y-2 sm:space-y-4">
+                    <div class="p-2 sm:p-5 flex-1 flex flex-col justify-between space-y-2 sm:space-y-4">
                         <div>
                             <span class="hidden sm:inline text-[10px] sm:text-xs text-stone-400 font-semibold uppercase">Quà Tặng Khai Trương</span>
                             <h3 class="font-bold text-stone-900 text-xs sm:text-base mt-0.5 sm:mt-1 line-clamp-2">Mèo Thần Tài Song Long Biểu Trưng Quà Tặng</h3>
@@ -372,7 +372,7 @@
                             <div class="flex flex-col sm:flex-row sm:items-baseline gap-0.5 sm:gap-2">
                                 <span class="text-brand-red font-extrabold text-xs sm:text-lg">1.150.000 ₫</span>
                             </div>
-                            <button onclick="addToCart('Mèo Thần Tài Song Long Quà Tặng', 1150000)" class="mt-2 sm:mt-3 w-full bg-stone-900 hover:bg-brand-red text-white py-2 sm:py-2.5 rounded-lg sm:rounded-xl font-bold text-xs sm:text-sm transition shadow-md flex items-center justify-center gap-1">
+                            <button onclick="addToCart('Mèo Thần Tài Song Long Quà Tặng', 1150000)" class="mt-2 sm:mt-3 w-full bg-stone-900 hover:bg-brand-red text-white py-1.5 sm:py-2.5 rounded-lg sm:rounded-xl font-bold text-xs sm:text-sm transition shadow-md flex items-center justify-center gap-1">
                                 <i class="fa-solid fa-cart-plus"></i> <span>Thêm</span>
                             </button>
                         </div>
@@ -392,13 +392,13 @@
             </div>
 
             <!-- 2 Columns on mobile, 4 columns on desktop -->
-            <div class="grid grid-cols-2 lg:grid-cols-4 gap-3 sm:gap-6">
+            <div class="grid grid-cols-2 lg:grid-cols-4 gap-2 sm:gap-6">
                 <!-- Product 1 -->
                 <div class="bg-white rounded-xl sm:rounded-2xl shadow-sm hover:shadow-xl transition border border-stone-200 overflow-hidden flex flex-col">
                     <div class="relative bg-stone-100 overflow-hidden group">
-                        <img src="https://meothantaikhaitruong.com/wp-content/uploads/2024/04/meo-than-tai-mini-tien-da-da-tt0409.jpeg" alt="Mèo Thần Tài Bình An Hạnh Phúc" class="w-full h-36 sm:h-64 object-cover group-hover:scale-105 transition duration-500">
+                        <img src="https://meothantaikhaitruong.com/wp-content/uploads/2024/04/meo-than-tai-mini-tien-da-da-tt0409.jpeg" alt="Mèo Thần Tài Bình An Hạnh Phúc" class="w-full h-32 sm:h-64 object-cover group-hover:scale-105 transition duration-500">
                     </div>
-                    <div class="p-3 sm:p-5 flex-1 flex flex-col justify-between space-y-2 sm:space-y-4">
+                    <div class="p-2 sm:p-5 flex-1 flex flex-col justify-between space-y-2 sm:space-y-4">
                         <div>
                             <span class="hidden sm:inline text-[10px] sm:text-xs text-stone-400 font-semibold uppercase">Mèo Phú Quý</span>
                             <h3 class="font-bold text-stone-900 text-xs sm:text-base mt-0.5 sm:mt-1 line-clamp-2">Mèo Thần Tài Gia Đình Bình An Hạnh Phúc Gốm Sứ</h3>
@@ -407,7 +407,7 @@
                             <div class="flex flex-col sm:flex-row sm:items-baseline gap-0.5 sm:gap-2">
                                 <span class="text-brand-red font-extrabold text-xs sm:text-lg">580.000 ₫</span>
                             </div>
-                            <button onclick="addToCart('Mèo Thần Tài Bình An Hạnh Phúc', 580000)" class="mt-2 sm:mt-3 w-full bg-stone-900 hover:bg-brand-red text-white py-2 sm:py-2.5 rounded-lg sm:rounded-xl font-bold text-xs sm:text-sm transition shadow-md flex items-center justify-center gap-1">
+                            <button onclick="addToCart('Mèo Thần Tài Bình An Hạnh Phúc', 580000)" class="mt-2 sm:mt-3 w-full bg-stone-900 hover:bg-brand-red text-white py-1.5 sm:py-2.5 rounded-lg sm:rounded-xl font-bold text-xs sm:text-sm transition shadow-md flex items-center justify-center gap-1">
                                 <i class="fa-solid fa-cart-plus"></i> <span>Thêm</span>
                             </button>
                         </div>
@@ -417,9 +417,9 @@
                 <!-- Product 2 -->
                 <div class="bg-white rounded-xl sm:rounded-2xl shadow-sm hover:shadow-xl transition border border-stone-200 overflow-hidden flex flex-col">
                     <div class="relative bg-stone-100 overflow-hidden group">
-                        <img src="https://meothantaikhaitruong.com/wp-content/uploads/2024/04/meo-than-tai-mini-tien-da-da-tt0409.jpeg" alt="Mèo Thần Tài Hứng Lộc Vạn Sự Như Ý" class="w-full h-36 sm:h-64 object-cover group-hover:scale-105 transition duration-500">
+                        <img src="https://meothantaikhaitruong.com/wp-content/uploads/2024/04/meo-than-tai-mini-tien-da-da-tt0409.jpeg" alt="Mèo Thần Tài Hứng Lộc Vạn Sự Như Ý" class="w-full h-32 sm:h-64 object-cover group-hover:scale-105 transition duration-500">
                     </div>
-                    <div class="p-3 sm:p-5 flex-1 flex flex-col justify-between space-y-2 sm:space-y-4">
+                    <div class="p-2 sm:p-5 flex-1 flex flex-col justify-between space-y-2 sm:space-y-4">
                         <div>
                             <span class="hidden sm:inline text-[10px] sm:text-xs text-stone-400 font-semibold uppercase">Mèo Phú Quý</span>
                             <h3 class="font-bold text-stone-900 text-xs sm:text-base mt-0.5 sm:mt-1 line-clamp-2">Mèo Thần Tài Hứng Lộc Vạn Sự Như Ý</h3>
@@ -428,7 +428,7 @@
                             <div class="flex flex-col sm:flex-row sm:items-baseline gap-0.5 sm:gap-2">
                                 <span class="text-brand-red font-extrabold text-xs sm:text-lg">690.000 ₫</span>
                             </div>
-                            <button onclick="addToCart('Mèo Thần Tài Vạn Sự Như Ý', 690000)" class="mt-2 sm:mt-3 w-full bg-stone-900 hover:bg-brand-red text-white py-2 sm:py-2.5 rounded-lg sm:rounded-xl font-bold text-xs sm:text-sm transition shadow-md flex items-center justify-center gap-1">
+                            <button onclick="addToCart('Mèo Thần Tài Vạn Sự Như Ý', 690000)" class="mt-2 sm:mt-3 w-full bg-stone-900 hover:bg-brand-red text-white py-1.5 sm:py-2.5 rounded-lg sm:rounded-xl font-bold text-xs sm:text-sm transition shadow-md flex items-center justify-center gap-1">
                                 <i class="fa-solid fa-cart-plus"></i> <span>Thêm</span>
                             </button>
                         </div>
@@ -438,9 +438,9 @@
                 <!-- Product 3 -->
                 <div class="bg-white rounded-xl sm:rounded-2xl shadow-sm hover:shadow-xl transition border border-stone-200 overflow-hidden flex flex-col">
                     <div class="relative bg-stone-100 overflow-hidden group">
-                        <img src="https://meothantaikhaitruong.com/wp-content/uploads/2024/04/meo-than-tai-mini-tien-da-da-tt0409.jpeg" alt="Mèo Thần Tài Sức Khỏe & Trường Thọ" class="w-full h-36 sm:h-64 object-cover group-hover:scale-105 transition duration-500">
+                        <img src="https://meothantaikhaitruong.com/wp-content/uploads/2024/04/meo-than-tai-mini-tien-da-da-tt0409.jpeg" alt="Mèo Thần Tài Sức Khỏe & Trường Thọ" class="w-full h-32 sm:h-64 object-cover group-hover:scale-105 transition duration-500">
                     </div>
-                    <div class="p-3 sm:p-5 flex-1 flex flex-col justify-between space-y-2 sm:space-y-4">
+                    <div class="p-2 sm:p-5 flex-1 flex flex-col justify-between space-y-2 sm:space-y-4">
                         <div>
                             <span class="hidden sm:inline text-[10px] sm:text-xs text-stone-400 font-semibold uppercase">Mèo Phú Quý</span>
                             <h3 class="font-bold text-stone-900 text-xs sm:text-base mt-0.5 sm:mt-1 line-clamp-2">Mèo Thần Tài Đào Tiên Trường Thọ Sức Khỏe</h3>
@@ -449,7 +449,7 @@
                             <div class="flex flex-col sm:flex-row sm:items-baseline gap-0.5 sm:gap-2">
                                 <span class="text-brand-red font-extrabold text-xs sm:text-lg">640.000 ₫</span>
                             </div>
-                            <button onclick="addToCart('Mèo Thần Tài Đào Tiên Trường Thọ', 640000)" class="mt-2 sm:mt-3 w-full bg-stone-900 hover:bg-brand-red text-white py-2 sm:py-2.5 rounded-lg sm:rounded-xl font-bold text-xs sm:text-sm transition shadow-md flex items-center justify-center gap-1">
+                            <button onclick="addToCart('Mèo Thần Tài Đào Tiên Trường Thọ', 640000)" class="mt-2 sm:mt-3 w-full bg-stone-900 hover:bg-brand-red text-white py-1.5 sm:py-2.5 rounded-lg sm:rounded-xl font-bold text-xs sm:text-sm transition shadow-md flex items-center justify-center gap-1">
                                 <i class="fa-solid fa-cart-plus"></i> <span>Thêm</span>
                             </button>
                         </div>
@@ -459,9 +459,9 @@
                 <!-- Product 4 -->
                 <div class="bg-white rounded-xl sm:rounded-2xl shadow-sm hover:shadow-xl transition border border-stone-200 overflow-hidden flex flex-col">
                     <div class="relative bg-stone-100 overflow-hidden group">
-                        <img src="https://meothantaikhaitruong.com/wp-content/uploads/2024/04/meo-than-tai-mini-tien-da-da-tt0409.jpeg" alt="Mèo Thần Tài Tài Lộc Gấp Bội" class="w-full h-36 sm:h-64 object-cover group-hover:scale-105 transition duration-500">
+                        <img src="https://meothantaikhaitruong.com/wp-content/uploads/2024/04/meo-than-tai-mini-tien-da-da-tt0409.jpeg" alt="Mèo Thần Tài Tài Lộc Gấp Bội" class="w-full h-32 sm:h-64 object-cover group-hover:scale-105 transition duration-500">
                     </div>
-                    <div class="p-3 sm:p-5 flex-1 flex flex-col justify-between space-y-2 sm:space-y-4">
+                    <div class="p-2 sm:p-5 flex-1 flex flex-col justify-between space-y-2 sm:space-y-4">
                         <div>
                             <span class="hidden sm:inline text-[10px] sm:text-xs text-stone-400 font-semibold uppercase">Mèo Phú Quý</span>
                             <h3 class="font-bold text-stone-900 text-xs sm:text-base mt-0.5 sm:mt-1 line-clamp-2">Mèo Thần Tài Song Long Biểu Trưng Phát Tài</h3>
@@ -470,7 +470,7 @@
                             <div class="flex flex-col sm:flex-row sm:items-baseline gap-0.5 sm:gap-2">
                                 <span class="text-brand-red font-extrabold text-xs sm:text-lg">920.000 ₫</span>
                             </div>
-                            <button onclick="addToCart('Mèo Thần Tài Song Long Phát Tài', 920000)" class="mt-2 sm:mt-3 w-full bg-stone-900 hover:bg-brand-red text-white py-2 sm:py-2.5 rounded-lg sm:rounded-xl font-bold text-xs sm:text-sm transition shadow-md flex items-center justify-center gap-1">
+                            <button onclick="addToCart('Mèo Thần Tài Song Long Phát Tài', 920000)" class="mt-2 sm:mt-3 w-full bg-stone-900 hover:bg-brand-red text-white py-1.5 sm:py-2.5 rounded-lg sm:rounded-xl font-bold text-xs sm:text-sm transition shadow-md flex items-center justify-center gap-1">
                                 <i class="fa-solid fa-cart-plus"></i> <span>Thêm</span>
                             </button>
                         </div>
@@ -489,13 +489,13 @@
             </div>
 
             <!-- 2 Columns on mobile, 4 columns on desktop -->
-            <div class="grid grid-cols-2 lg:grid-cols-4 gap-3 sm:gap-6">
+            <div class="grid grid-cols-2 lg:grid-cols-4 gap-2 sm:gap-6">
                 <!-- Linh vật 1 -->
                 <div class="bg-white rounded-xl sm:rounded-2xl shadow-sm hover:shadow-xl transition border border-stone-200 overflow-hidden flex flex-col">
                     <div class="relative bg-stone-100 overflow-hidden group">
-                        <img src="https://meothantaikhaitruong.com/wp-content/uploads/2024/04/meo-than-tai-mini-tien-da-da-tt0409.jpeg" alt="Cặp Tỳ Hưu Đá Hoàng Long" class="w-full h-36 sm:h-64 object-cover group-hover:scale-105 transition duration-500">
+                        <img src="https://meothantaikhaitruong.com/wp-content/uploads/2024/04/meo-than-tai-mini-tien-da-da-tt0409.jpeg" alt="Cặp Tỳ Hưu Đá Hoàng Long" class="w-full h-32 sm:h-64 object-cover group-hover:scale-105 transition duration-500">
                     </div>
-                    <div class="p-3 sm:p-5 flex-1 flex flex-col justify-between space-y-2 sm:space-y-4">
+                    <div class="p-2 sm:p-5 flex-1 flex flex-col justify-between space-y-2 sm:space-y-4">
                         <div>
                             <span class="hidden sm:inline text-[10px] sm:text-xs text-stone-400 font-semibold uppercase">Vật Phẩm Phong Thủy</span>
                             <h3 class="font-bold text-stone-900 text-xs sm:text-base mt-0.5 sm:mt-1 line-clamp-2">Cặp Tỳ Hưu Trấn Trạch Chiêu Tài – Vàng Hoàng Long</h3>
@@ -504,7 +504,7 @@
                             <div class="flex flex-col sm:flex-row sm:items-baseline gap-0.5 sm:gap-2">
                                 <span class="text-brand-red font-extrabold text-xs sm:text-lg">795.000 ₫</span>
                             </div>
-                            <button onclick="addToCart('Cặp Tỳ Hưu Trấn Trạch Chiêu Tài', 795000)" class="mt-2 sm:mt-3 w-full bg-stone-900 hover:bg-brand-red text-white py-2 sm:py-2.5 rounded-lg sm:rounded-xl font-bold text-xs sm:text-sm transition shadow-md flex items-center justify-center gap-1">
+                            <button onclick="addToCart('Cặp Tỳ Hưu Trấn Trạch Chiêu Tài', 795000)" class="mt-2 sm:mt-3 w-full bg-stone-900 hover:bg-brand-red text-white py-1.5 sm:py-2.5 rounded-lg sm:rounded-xl font-bold text-xs sm:text-sm transition shadow-md flex items-center justify-center gap-1">
                                 <i class="fa-solid fa-cart-plus"></i> <span>Thêm</span>
                             </button>
                         </div>
@@ -514,9 +514,9 @@
                 <!-- Linh vật 2 -->
                 <div class="bg-white rounded-xl sm:rounded-2xl shadow-sm hover:shadow-xl transition border border-stone-200 overflow-hidden flex flex-col">
                     <div class="relative bg-stone-100 overflow-hidden group">
-                        <img src="https://meothantaikhaitruong.com/wp-content/uploads/2024/04/meo-than-tai-mini-tien-da-da-tt0409.jpeg" alt="Thiềm Thừ Ngậm Tiền" class="w-full h-36 sm:h-64 object-cover group-hover:scale-105 transition duration-500">
+                        <img src="https://meothantaikhaitruong.com/wp-content/uploads/2024/04/meo-than-tai-mini-tien-da-da-tt0409.jpeg" alt="Thiềm Thừ Ngậm Tiền" class="w-full h-32 sm:h-64 object-cover group-hover:scale-105 transition duration-500">
                     </div>
-                    <div class="p-3 sm:p-5 flex-1 flex flex-col justify-between space-y-2 sm:space-y-4">
+                    <div class="p-2 sm:p-5 flex-1 flex flex-col justify-between space-y-2 sm:space-y-4">
                         <div>
                             <span class="hidden sm:inline text-[10px] sm:text-xs text-stone-400 font-semibold uppercase">Vật Phẩm Phong Thủy</span>
                             <h3 class="font-bold text-stone-900 text-xs sm:text-base mt-0.5 sm:mt-1 line-clamp-2">Thiềm Thừ (Cóc Ba Chân) Ngậm Tiền Chiêu Tài Lộc</h3>
@@ -525,7 +525,7 @@
                             <div class="flex flex-col sm:flex-row sm:items-baseline gap-0.5 sm:gap-2">
                                 <span class="text-brand-red font-extrabold text-xs sm:text-lg">680.000 ₫</span>
                             </div>
-                            <button onclick="addToCart('Thiềm Thừ Ngậm Tiền', 680000)" class="mt-2 sm:mt-3 w-full bg-stone-900 hover:bg-brand-red text-white py-2 sm:py-2.5 rounded-lg sm:rounded-xl font-bold text-xs sm:text-sm transition shadow-md flex items-center justify-center gap-1">
+                            <button onclick="addToCart('Thiềm Thừ Ngậm Tiền', 680000)" class="mt-2 sm:mt-3 w-full bg-stone-900 hover:bg-brand-red text-white py-1.5 sm:py-2.5 rounded-lg sm:rounded-xl font-bold text-xs sm:text-sm transition shadow-md flex items-center justify-center gap-1">
                                 <i class="fa-solid fa-cart-plus"></i> <span>Thêm</span>
                             </button>
                         </div>
@@ -535,9 +535,9 @@
                 <!-- Linh vật 3 -->
                 <div class="bg-white rounded-xl sm:rounded-2xl shadow-sm hover:shadow-xl transition border border-stone-200 overflow-hidden flex flex-col">
                     <div class="relative bg-stone-100 overflow-hidden group">
-                        <img src="https://meothantaikhaitruong.com/wp-content/uploads/2024/04/meo-than-tai-mini-tien-da-da-tt0409.jpeg" alt="Bát Tụ Bảo Chiêu Tài" class="w-full h-36 sm:h-64 object-cover group-hover:scale-105 transition duration-500">
+                        <img src="https://meothantaikhaitruong.com/wp-content/uploads/2024/04/meo-than-tai-mini-tien-da-da-tt0409.jpeg" alt="Bát Tụ Bảo Chiêu Tài" class="w-full h-32 sm:h-64 object-cover group-hover:scale-105 transition duration-500">
                     </div>
-                    <div class="p-3 sm:p-5 flex-1 flex flex-col justify-between space-y-2 sm:space-y-4">
+                    <div class="p-2 sm:p-5 flex-1 flex flex-col justify-between space-y-2 sm:space-y-4">
                         <div>
                             <span class="hidden sm:inline text-[10px] sm:text-xs text-stone-400 font-semibold uppercase">Vật Phẩm Phong Thủy</span>
                             <h3 class="font-bold text-stone-900 text-xs sm:text-base mt-0.5 sm:mt-1 line-clamp-2">Bát Tụ Bảo Tụ Tài Lộc Đặt Bàn Thần Tài Thu Ngân</h3>
@@ -546,7 +546,7 @@
                             <div class="flex flex-col sm:flex-row sm:items-baseline gap-0.5 sm:gap-2">
                                 <span class="text-brand-red font-extrabold text-xs sm:text-lg">890.000 ₫</span>
                             </div>
-                            <button onclick="addToCart('Bát Tụ Bảo Chiêu Tài', 890000)" class="mt-2 sm:mt-3 w-full bg-stone-900 hover:bg-brand-red text-white py-2 sm:py-2.5 rounded-lg sm:rounded-xl font-bold text-xs sm:text-sm transition shadow-md flex items-center justify-center gap-1">
+                            <button onclick="addToCart('Bát Tụ Bảo Chiêu Tài', 890000)" class="mt-2 sm:mt-3 w-full bg-stone-900 hover:bg-brand-red text-white py-1.5 sm:py-2.5 rounded-lg sm:rounded-xl font-bold text-xs sm:text-sm transition shadow-md flex items-center justify-center gap-1">
                                 <i class="fa-solid fa-cart-plus"></i> <span>Thêm</span>
                             </button>
                         </div>
@@ -637,17 +637,17 @@
     </footer>
 
     <!-- Floating Quick Contact Buttons -->
-    <div class="fixed bottom-6 left-6 z-40 flex flex-col gap-3">
+    <div class="fixed bottom-6 left-4 z-40 flex flex-col gap-2.5">
         <!-- Zalo Button -->
-        <a href="https://zalo.me/0901956069" target="_blank" aria-label="Zalo" class="w-12 h-12 rounded-full bg-cyan-500 text-white flex items-center justify-center shadow-2xl hover:scale-110 transition duration-300 font-bold text-lg">
+        <a href="https://zalo.me/0901956069" target="_blank" aria-label="Zalo" class="w-11 h-11 sm:w-12 sm:h-12 rounded-full bg-cyan-500 text-white flex items-center justify-center shadow-2xl hover:scale-110 transition duration-300 font-bold text-base sm:text-lg">
             <i class="fa-solid fa-comment-dots"></i>
         </a>
         <!-- Messenger Facebook Button -->
-        <a href="https://www.facebook.com/profile.php?id=61564410320617" target="_blank" aria-label="Facebook" class="w-12 h-12 rounded-full bg-blue-600 text-white flex items-center justify-center shadow-2xl hover:scale-110 transition duration-300 font-bold text-lg">
+        <a href="https://www.facebook.com/profile.php?id=61564410320617" target="_blank" aria-label="Facebook" class="w-11 h-11 sm:w-12 sm:h-12 rounded-full bg-blue-600 text-white flex items-center justify-center shadow-2xl hover:scale-110 transition duration-300 font-bold text-base sm:text-lg">
             <i class="fa-brands fa-facebook-messenger"></i>
         </a>
         <!-- Hotline Phone Button -->
-        <a href="tel:0901956069" aria-label="Hotline" class="w-12 h-12 rounded-full bg-brand-red text-white flex items-center justify-center shadow-2xl hover:scale-110 transition duration-300 font-bold text-lg animate-pulse">
+        <a href="tel:0901956069" aria-label="Hotline" class="w-11 h-11 sm:w-12 sm:h-12 rounded-full bg-brand-red text-white flex items-center justify-center shadow-2xl hover:scale-110 transition duration-300 font-bold text-base sm:text-lg animate-pulse">
             <i class="fa-solid fa-phone"></i>
         </a>
     </div>
