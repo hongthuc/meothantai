@@ -191,11 +191,11 @@
             </div>
 
             <!-- 2 Columns on mobile, 4 columns on desktop -->
-            <div class="grid grid-cols-2 lg:grid-cols-4 gap-2 sm:gap-6">
+            <div class="grid grid-cols-2 lg:grid-cols-4 gap-3 sm:gap-6">
                 <!-- Product 1 -->
                 <div class="bg-white rounded-xl sm:rounded-2xl shadow-sm hover:shadow-xl transition border border-stone-200 overflow-hidden flex flex-col">
                     <div class="relative bg-stone-100 overflow-hidden group">
-                        <img src="https://meothantaikhaitruong.com/wp-content/uploads/2024/04/meo-than-tai-mini-tien-da-da-tt0409.jpeg" alt="Mèo Thần Tài Đại Cát Đại Lợi" class="w-full h-32 sm:h-64 object-cover group-hover:scale-105 transition duration-500">
+                        <img src="https://meothantaikhaitruong.com/wp-content/uploads/2024/04/meo-than-tai-mini-tien-da-da-tt0409.jpeg" alt="Mèo Thần Tài Đại Cát Đại Lợi" class="w-full h-36 sm:h-64 object-cover group-hover:scale-105 transition duration-500">
                         <span class="absolute top-1.5 left-1.5 sm:top-3 sm:left-3 bg-brand-red text-white text-[9px] sm:text-xs font-bold px-1.5 py-0.5 sm:px-2.5 sm:py-1 rounded shadow">Bán Chạy</span>
                     </div>
                     <div class="p-2 sm:p-5 flex-1 flex flex-col justify-between space-y-2 sm:space-y-4">
@@ -218,7 +218,7 @@
                 <!-- Product 2 -->
                 <div class="bg-white rounded-xl sm:rounded-2xl shadow-sm hover:shadow-xl transition border border-stone-200 overflow-hidden flex flex-col">
                     <div class="relative bg-stone-100 overflow-hidden group">
-                        <img src="https://meothantaikhaitruong.com/wp-content/uploads/2024/04/meo-than-tai-mini-tien-da-da-tt0409.jpeg" alt="Mèo Thần Tài Thiên Kim Vạn Lượng" class="w-full h-32 sm:h-64 object-cover group-hover:scale-105 transition duration-500">
+                        <img src="https://meothantaikhaitruong.com/wp-content/uploads/2024/04/meo-than-tai-mini-tien-da-da-tt0409.jpeg" alt="Mèo Thần Tài Thiên Kim Vạn Lượng" class="w-full h-36 sm:h-64 object-cover group-hover:scale-105 transition duration-500">
                         <span class="absolute top-1.5 left-1.5 sm:top-3 sm:left-3 bg-amber-500 text-stone-900 text-[9px] sm:text-xs font-bold px-1.5 py-0.5 sm:px-2.5 sm:py-1 rounded shadow">VIP</span>
                     </div>
                     <div class="p-2 sm:p-5 flex-1 flex flex-col justify-between space-y-2 sm:space-y-4">
@@ -241,7 +241,7 @@
                 <!-- Product 3 -->
                 <div class="bg-white rounded-xl sm:rounded-2xl shadow-sm hover:shadow-xl transition border border-stone-200 overflow-hidden flex flex-col">
                     <div class="relative bg-stone-100 overflow-hidden group">
-                        <img src="https://meothantaikhaitruong.com/wp-content/uploads/2024/04/meo-than-tai-mini-tien-da-da-tt0409.jpeg" alt="Mèo Thần Tài Kim Ngưu Cát Tường" class="w-full h-32 sm:h-64 object-cover group-hover:scale-105 transition duration-500">
+                        <img src="https://meothantaikhaitruong.com/wp-content/uploads/2024/04/meo-than-tai-mini-tien-da-da-tt0409.jpeg" alt="Mèo Thần Tài Kim Ngưu Cát Tường" class="w-full h-36 sm:h-64 object-cover group-hover:scale-105 transition duration-500">
                     </div>
                     <div class="p-2 sm:p-5 flex-1 flex flex-col justify-between space-y-2 sm:space-y-4">
                         <div>
@@ -262,7 +262,7 @@
                 <!-- Product 4 -->
                 <div class="bg-white rounded-xl sm:rounded-2xl shadow-sm hover:shadow-xl transition border border-stone-200 overflow-hidden flex flex-col">
                     <div class="relative bg-stone-100 overflow-hidden group">
-                        <img src="https://meothantaikhaitruong.com/wp-content/uploads/2024/04/meo-than-tai-mini-tien-da-da-tt0409.jpeg" alt="Mèo Thần Tài Phú Quý Viên Mãn" class="w-full h-32 sm:h-64 object-cover group-hover:scale-105 transition duration-500">
+                        <img src="https://meothantaikhaitruong.com/wp-content/uploads/2024/04/meo-than-tai-mini-tien-da-da-tt0409.jpeg" alt="Mèo Thần Tài Phú Quý Viên Mãn" class="w-full h-36 sm:h-64 object-cover group-hover:scale-105 transition duration-500">
                         <span class="absolute top-1.5 left-1.5 sm:top-3 sm:left-3 bg-brand-red text-white text-[9px] sm:text-xs font-bold px-1.5 py-0.5 sm:px-2.5 sm:py-1 rounded shadow">Hot</span>
                     </div>
                     <div class="p-2 sm:p-5 flex-1 flex flex-col justify-between space-y-2 sm:space-y-4">
@@ -294,11 +294,11 @@
             </div>
 
             <!-- 2 Columns on mobile, 4 columns on desktop -->
-            <div class="grid grid-cols-2 lg:grid-cols-4 gap-2 sm:gap-6">
+            <div class="grid grid-cols-2 lg:grid-cols-4 gap-3 sm:gap-6">
                 <!-- Gift 1 -->
                 <div class="bg-white rounded-xl sm:rounded-2xl shadow-sm hover:shadow-xl transition border border-stone-200 overflow-hidden flex flex-col">
                     <div class="relative bg-stone-100 overflow-hidden group">
-                        <img src="https://meothantaikhaitruong.com/wp-content/uploads/2024/04/meo-than-tai-mini-tien-da-da-tt0409.jpeg" alt="Mèo Tặng Khai Trương Quán Cà Phê" class="w-full h-32 sm:h-64 object-cover group-hover:scale-105 transition duration-500">
+                        <img src="https://meothantaikhaitruong.com/wp-content/uploads/2024/04/meo-than-tai-mini-tien-da-da-tt0409.jpeg" alt="Mèo Tặng Khai Trương Quán Cà Phê" class="w-full h-36 sm:h-64 object-cover group-hover:scale-105 transition duration-500">
                     </div>
                     <div class="p-2 sm:p-5 flex-1 flex flex-col justify-between space-y-2 sm:space-y-4">
                         <div>
@@ -319,7 +319,7 @@
                 <!-- Gift 2 -->
                 <div class="bg-white rounded-xl sm:rounded-2xl shadow-sm hover:shadow-xl transition border border-stone-200 overflow-hidden flex flex-col">
                     <div class="relative bg-stone-100 overflow-hidden group">
-                        <img src="https://meothantaikhaitruong.com/wp-content/uploads/2024/04/meo-than-tai-mini-tien-da-da-tt0409.jpeg" alt="Mèo Tặng Khai Trương Shop Thời Trang" class="w-full h-32 sm:h-64 object-cover group-hover:scale-105 transition duration-500">
+                        <img src="https://meothantaikhaitruong.com/wp-content/uploads/2024/04/meo-than-tai-mini-tien-da-da-tt0409.jpeg" alt="Mèo Tặng Khai Trương Shop Thời Trang" class="w-full h-36 sm:h-64 object-cover group-hover:scale-105 transition duration-500">
                     </div>
                     <div class="p-2 sm:p-5 flex-1 flex flex-col justify-between space-y-2 sm:space-y-4">
                         <div>
@@ -340,7 +340,7 @@
                 <!-- Gift 3 -->
                 <div class="bg-white rounded-xl sm:rounded-2xl shadow-sm hover:shadow-xl transition border border-stone-200 overflow-hidden flex flex-col">
                     <div class="relative bg-stone-100 overflow-hidden group">
-                        <img src="https://meothantaikhaitruong.com/wp-content/uploads/2024/04/meo-than-tai-mini-tien-da-da-tt0409.jpeg" alt="Mèo Tặng Khai Trương Spa Salon" class="w-full h-32 sm:h-64 object-cover group-hover:scale-105 transition duration-500">
+                        <img src="https://meothantaikhaitruong.com/wp-content/uploads/2024/04/meo-than-tai-mini-tien-da-da-tt0409.jpeg" alt="Mèo Tặng Khai Trương Spa Salon" class="w-full h-36 sm:h-64 object-cover group-hover:scale-105 transition duration-500">
                     </div>
                     <div class="p-2 sm:p-5 flex-1 flex flex-col justify-between space-y-2 sm:space-y-4">
                         <div>
@@ -361,7 +361,7 @@
                 <!-- Gift 4 -->
                 <div class="bg-white rounded-xl sm:rounded-2xl shadow-sm hover:shadow-xl transition border border-stone-200 overflow-hidden flex flex-col">
                     <div class="relative bg-stone-100 overflow-hidden group">
-                        <img src="https://meothantaikhaitruong.com/wp-content/uploads/2024/04/meo-than-tai-mini-tien-da-da-tt0409.jpeg" alt="Bộ Quà Tặng Mèo Tài Lộc" class="w-full h-32 sm:h-64 object-cover group-hover:scale-105 transition duration-500">
+                        <img src="https://meothantaikhaitruong.com/wp-content/uploads/2024/04/meo-than-tai-mini-tien-da-da-tt0409.jpeg" alt="Bộ Quà Tặng Mèo Tài Lộc" class="w-full h-36 sm:h-64 object-cover group-hover:scale-105 transition duration-500">
                     </div>
                     <div class="p-2 sm:p-5 flex-1 flex flex-col justify-between space-y-2 sm:space-y-4">
                         <div>
@@ -392,11 +392,11 @@
             </div>
 
             <!-- 2 Columns on mobile, 4 columns on desktop -->
-            <div class="grid grid-cols-2 lg:grid-cols-4 gap-2 sm:gap-6">
+            <div class="grid grid-cols-2 lg:grid-cols-4 gap-3 sm:gap-6">
                 <!-- Product 1 -->
                 <div class="bg-white rounded-xl sm:rounded-2xl shadow-sm hover:shadow-xl transition border border-stone-200 overflow-hidden flex flex-col">
                     <div class="relative bg-stone-100 overflow-hidden group">
-                        <img src="https://meothantaikhaitruong.com/wp-content/uploads/2024/04/meo-than-tai-mini-tien-da-da-tt0409.jpeg" alt="Mèo Thần Tài Bình An Hạnh Phúc" class="w-full h-32 sm:h-64 object-cover group-hover:scale-105 transition duration-500">
+                        <img src="https://meothantaikhaitruong.com/wp-content/uploads/2024/04/meo-than-tai-mini-tien-da-da-tt0409.jpeg" alt="Mèo Thần Tài Bình An Hạnh Phúc" class="w-full h-36 sm:h-64 object-cover group-hover:scale-105 transition duration-500">
                     </div>
                     <div class="p-2 sm:p-5 flex-1 flex flex-col justify-between space-y-2 sm:space-y-4">
                         <div>
@@ -417,7 +417,7 @@
                 <!-- Product 2 -->
                 <div class="bg-white rounded-xl sm:rounded-2xl shadow-sm hover:shadow-xl transition border border-stone-200 overflow-hidden flex flex-col">
                     <div class="relative bg-stone-100 overflow-hidden group">
-                        <img src="https://meothantaikhaitruong.com/wp-content/uploads/2024/04/meo-than-tai-mini-tien-da-da-tt0409.jpeg" alt="Mèo Thần Tài Hứng Lộc Vạn Sự Như Ý" class="w-full h-32 sm:h-64 object-cover group-hover:scale-105 transition duration-500">
+                        <img src="https://meothantaikhaitruong.com/wp-content/uploads/2024/04/meo-than-tai-mini-tien-da-da-tt0409.jpeg" alt="Mèo Thần Tài Hứng Lộc Vạn Sự Như Ý" class="w-full h-36 sm:h-64 object-cover group-hover:scale-105 transition duration-500">
                     </div>
                     <div class="p-2 sm:p-5 flex-1 flex flex-col justify-between space-y-2 sm:space-y-4">
                         <div>
@@ -438,7 +438,7 @@
                 <!-- Product 3 -->
                 <div class="bg-white rounded-xl sm:rounded-2xl shadow-sm hover:shadow-xl transition border border-stone-200 overflow-hidden flex flex-col">
                     <div class="relative bg-stone-100 overflow-hidden group">
-                        <img src="https://meothantaikhaitruong.com/wp-content/uploads/2024/04/meo-than-tai-mini-tien-da-da-tt0409.jpeg" alt="Mèo Thần Tài Sức Khỏe & Trường Thọ" class="w-full h-32 sm:h-64 object-cover group-hover:scale-105 transition duration-500">
+                        <img src="https://meothantaikhaitruong.com/wp-content/uploads/2024/04/meo-than-tai-mini-tien-da-da-tt0409.jpeg" alt="Mèo Thần Tài Sức Khỏe & Trường Thọ" class="w-full h-36 sm:h-64 object-cover group-hover:scale-105 transition duration-500">
                     </div>
                     <div class="p-2 sm:p-5 flex-1 flex flex-col justify-between space-y-2 sm:space-y-4">
                         <div>
@@ -459,7 +459,7 @@
                 <!-- Product 4 -->
                 <div class="bg-white rounded-xl sm:rounded-2xl shadow-sm hover:shadow-xl transition border border-stone-200 overflow-hidden flex flex-col">
                     <div class="relative bg-stone-100 overflow-hidden group">
-                        <img src="https://meothantaikhaitruong.com/wp-content/uploads/2024/04/meo-than-tai-mini-tien-da-da-tt0409.jpeg" alt="Mèo Thần Tài Tài Lộc Gấp Bội" class="w-full h-32 sm:h-64 object-cover group-hover:scale-105 transition duration-500">
+                        <img src="https://meothantaikhaitruong.com/wp-content/uploads/2024/04/meo-than-tai-mini-tien-da-da-tt0409.jpeg" alt="Mèo Thần Tài Tài Lộc Gấp Bội" class="w-full h-36 sm:h-64 object-cover group-hover:scale-105 transition duration-500">
                     </div>
                     <div class="p-2 sm:p-5 flex-1 flex flex-col justify-between space-y-2 sm:space-y-4">
                         <div>
@@ -489,11 +489,11 @@
             </div>
 
             <!-- 2 Columns on mobile, 4 columns on desktop -->
-            <div class="grid grid-cols-2 lg:grid-cols-4 gap-2 sm:gap-6">
+            <div class="grid grid-cols-2 lg:grid-cols-4 gap-3 sm:gap-6">
                 <!-- Linh vật 1 -->
                 <div class="bg-white rounded-xl sm:rounded-2xl shadow-sm hover:shadow-xl transition border border-stone-200 overflow-hidden flex flex-col">
                     <div class="relative bg-stone-100 overflow-hidden group">
-                        <img src="https://meothantaikhaitruong.com/wp-content/uploads/2024/04/meo-than-tai-mini-tien-da-da-tt0409.jpeg" alt="Cặp Tỳ Hưu Đá Hoàng Long" class="w-full h-32 sm:h-64 object-cover group-hover:scale-105 transition duration-500">
+                        <img src="https://meothantaikhaitruong.com/wp-content/uploads/2024/04/meo-than-tai-mini-tien-da-da-tt0409.jpeg" alt="Cặp Tỳ Hưu Đá Hoàng Long" class="w-full h-36 sm:h-64 object-cover group-hover:scale-105 transition duration-500">
                     </div>
                     <div class="p-2 sm:p-5 flex-1 flex flex-col justify-between space-y-2 sm:space-y-4">
                         <div>
@@ -514,7 +514,7 @@
                 <!-- Linh vật 2 -->
                 <div class="bg-white rounded-xl sm:rounded-2xl shadow-sm hover:shadow-xl transition border border-stone-200 overflow-hidden flex flex-col">
                     <div class="relative bg-stone-100 overflow-hidden group">
-                        <img src="https://meothantaikhaitruong.com/wp-content/uploads/2024/04/meo-than-tai-mini-tien-da-da-tt0409.jpeg" alt="Thiềm Thừ Ngậm Tiền" class="w-full h-32 sm:h-64 object-cover group-hover:scale-105 transition duration-500">
+                        <img src="https://meothantaikhaitruong.com/wp-content/uploads/2024/04/meo-than-tai-mini-tien-da-da-tt0409.jpeg" alt="Thiềm Thừ Ngậm Tiền" class="w-full h-36 sm:h-64 object-cover group-hover:scale-105 transition duration-500">
                     </div>
                     <div class="p-2 sm:p-5 flex-1 flex flex-col justify-between space-y-2 sm:space-y-4">
                         <div>
@@ -535,7 +535,7 @@
                 <!-- Linh vật 3 -->
                 <div class="bg-white rounded-xl sm:rounded-2xl shadow-sm hover:shadow-xl transition border border-stone-200 overflow-hidden flex flex-col">
                     <div class="relative bg-stone-100 overflow-hidden group">
-                        <img src="https://meothantaikhaitruong.com/wp-content/uploads/2024/04/meo-than-tai-mini-tien-da-da-tt0409.jpeg" alt="Bát Tụ Bảo Chiêu Tài" class="w-full h-32 sm:h-64 object-cover group-hover:scale-105 transition duration-500">
+                        <img src="https://meothantaikhaitruong.com/wp-content/uploads/2024/04/meo-than-tai-mini-tien-da-da-tt0409.jpeg" alt="Bát Tụ Bảo Chiêu Tài" class="w-full h-36 sm:h-64 object-cover group-hover:scale-105 transition duration-500">
                     </div>
                     <div class="p-2 sm:p-5 flex-1 flex flex-col justify-between space-y-2 sm:space-y-4">
                         <div>
