@@ -190,7 +190,7 @@
                 <span class="text-[11px] sm:text-xs text-stone-500 mt-1 md:mt-0 font-medium">Bày trí quầy thu ngân, cửa hàng, công ty</span>
             </div>
 
-            <!-- 2 Columns on mobile, 4 columns on desktop -->
+            <!-- 2 Columns on mobile (grid-cols-2), 4 columns on desktop (lg:grid-cols-4) -->
             <div class="grid grid-cols-2 lg:grid-cols-4 gap-3 sm:gap-6">
                 <!-- Product 1 -->
                 <div class="bg-white rounded-xl sm:rounded-2xl shadow-sm hover:shadow-xl transition border border-stone-200 overflow-hidden flex flex-col">
@@ -293,7 +293,6 @@
                 <span class="text-[11px] sm:text-xs text-stone-500 mt-1 md:mt-0 font-medium">Bao gồm hộp quà, thiệp chúc mừng & nơ đỏ</span>
             </div>
 
-            <!-- 2 Columns on mobile, 4 columns on desktop -->
             <div class="grid grid-cols-2 lg:grid-cols-4 gap-3 sm:gap-6">
                 <!-- Gift 1 -->
                 <div class="bg-white rounded-xl sm:rounded-2xl shadow-sm hover:shadow-xl transition border border-stone-200 overflow-hidden flex flex-col">
@@ -391,7 +390,6 @@
                 <span class="text-[11px] sm:text-xs text-stone-500 mt-1 md:mt-0 font-medium">Bày phòng khách, bàn làm việc, nhà cửa</span>
             </div>
 
-            <!-- 2 Columns on mobile, 4 columns on desktop -->
             <div class="grid grid-cols-2 lg:grid-cols-4 gap-3 sm:gap-6">
                 <!-- Product 1 -->
                 <div class="bg-white rounded-xl sm:rounded-2xl shadow-sm hover:shadow-xl transition border border-stone-200 overflow-hidden flex flex-col">
@@ -488,7 +486,6 @@
                 </div>
             </div>
 
-            <!-- 2 Columns on mobile, 4 columns on desktop -->
             <div class="grid grid-cols-2 lg:grid-cols-4 gap-3 sm:gap-6">
                 <!-- Linh vật 1 -->
                 <div class="bg-white rounded-xl sm:rounded-2xl shadow-sm hover:shadow-xl transition border border-stone-200 overflow-hidden flex flex-col">
